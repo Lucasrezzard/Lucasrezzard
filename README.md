@@ -12,5 +12,3 @@ _Começei a usar o GitHub recentemente e estou me acustumando bem a plataforma_
 - _1º Ano do ensino médio 📚_
 - _Mecânica 🧰_ 
 - _Progamaçâo no [Alura](https://www.alura.com.br) 🖥️_
-
- 
