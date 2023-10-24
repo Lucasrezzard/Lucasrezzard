@@ -13,5 +13,4 @@ _Começei a usar o GitHub recentemente e estou me acustumando bem a plataforma_
 - _Mecânica 🧰_ 
 - _Progamaçâo no [Alura](https://www.alura.com.br) 🖥️_
 
- ### _I love cars 🖤_
  
